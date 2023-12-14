@@ -1,0 +1,1 @@
+This model uses RNN LSTM Neural Network to predict the next word and later in this project i will increase the dataset used and increase the efficiency in the coming days by trying different things in this
